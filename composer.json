@@ -1,6 +1,5 @@
 {
     "name": "finteger/guest",
-    "version": "1.0.1",
     "description": "Guest Login for Finteger",
     "keywords": [
         "flarum"
