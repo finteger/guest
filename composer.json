@@ -27,8 +27,8 @@
             "title": "Finteger Guest Login",
             "category": "",
             "icon": {
-                "name": "fa-user",
-                "color": "",
+                "name": "fas fa-user",
+                "color": "blue",
                 "backgroundColor": ""
             }
         },
